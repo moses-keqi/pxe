@@ -65,3 +65,6 @@ mv /filesystem.squashfs ~/new-iso/casper/
 #### 1.1、截图测试
 ![测试图片](image/tftp-test.png)
 
+
+## TODO待解决文件、无盘启动后不能联网
+
