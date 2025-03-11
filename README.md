@@ -42,8 +42,9 @@ mv /filesystem.squashfs ~/new-iso/casper/
 ```
 
 ## 无盘服务器安装
-[pxe镜像安装gitee](https://gitee.com/nuoee/alpine-pxe)
-[pxe镜像安装github](https://github.com/moses-keqi/pxe)
+[pxe镜像安装gitee](https://gitee.com/nuoee/alpine-pxe) https://gitee.com/nuoee/alpine-pxe
+
+[pxe镜像安装github](https://github.com/moses-keqi/pxe) https://github.com/moses-keqi/pxe
 
 ### 1、 启动UEFI PXEv4
 ![uefi.png](image/uefi.png)
